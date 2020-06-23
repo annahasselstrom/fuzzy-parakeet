@@ -1,0 +1,222 @@
+.body {
+        margin: 0% 50%;
+        display: block;
+        width: 100%;
+    }
+
+h1 {
+    font-size: 40px;
+    color: black;
+    width: 100%;
+    margin-left: 100px;
+    font-weight: bold;
+    font-family: "Nunito-sans", sans-serif;
+}
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px 100px;
+    display: block
+}
+
+h2 {
+    color: black;
+    margin-left: 25px;
+    font-family: "Merriweather", san-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h3 {
+    margin-left: 25px;
+    font-weight: bold;
+    color: black;
+}
+
+.color-container {
+    width: 100%;
+    display: inline-block;  
+    margin-bottom: 20px;
+}
+
+.beige {
+    color: black;
+    background-color: #f6ecbf;
+    display: block;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.pink {
+    color: black;
+    background-color: #ffbbcc;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+.purple {
+    color: black;
+    background-color: #c886e5;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+.red {
+    color: black;
+    background-color: #ff0000;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; 
+}
+
+.color-panel {
+    display: inline-block;
+    margin: 25px, 20px;
+    margin-left: 25px;
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    border-radius: 75px;
+    font-family: "Roboto", sans-serif;  
+}
+
+.color-label {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;  
+}
+
+p.color-label {
+    text-align: center;
+    align-content: center;
+    margin-top: 35px;
+}
+
+.color-hex {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.font-container {
+    width: 100%;
+    display: inline-block;  
+    padding-bottom: 20px;
+}
+
+h3.nunito-sans-heading {
+    font-family: "Nunito-sans", san-serif;
+}
+
+h3.merriweather {
+    font-family: "Merriweather";
+}
+
+h3.roboto {
+    font-family: "Roboto";
+}
+
+div.nunito-sans {
+    display: inline-block;
+}
+
+div.merriweather {
+    display: inline-block;
+}
+
+div.roboto {
+    display: inline-block
+}
+
+p {
+    margin-left: 25px;
+}
+
+p.nunito-sans-paragraph {
+    font-family: "Nunito-sans", sans-serif;
+    
+}
+
+p.nunito-sans-bold {
+    font-weight: bold;
+    font-family: "Nunito-sans", sans-serif;;
+}
+
+p.nunito-sans-italic {
+    font-style: italic;
+    font-family: "Nunito-sans", sans-serif;
+}
+
+p.merriweather {
+    font-family: "Merriweather", serif;
+}
+
+p.merriweather-bold {
+    font-weight: bold;
+    font-family: "Merriweather", serif;
+}
+
+p.merriweather-italic {
+    font-style: italic;
+    font-family: "Merriweather", serif;
+}
+
+p.roboto {
+    font-family: "Roboto", sans-serif;
+}
+
+p.roboto-bold {
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+}
+
+p.roboto-italic {
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
+
+.textstyle-container {
+    width: 100%;
+    display: inline-block;
+    padding-bottom: 20px;
+}
+
+.headings, .subheadings, .paragraphs {
+    display: inline-block;
+    margin-right: 40px;
+    line-height: 1.6;
+}
+
+p.heading-main-page {
+    font-family: "Nunito-sans", sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+p.subheading {
+    font-family: "Merriweather", serif;
+    font-size: 18px;
+}
+
+p.paragraph-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400 (regular);
+    font-size: 14px;
+    
+}
